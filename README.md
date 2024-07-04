@@ -10,10 +10,16 @@
 # Case1
  This file contian three sub-files: Data, Additive_Gaussian and Multinomial
 # Data from Case1
+ Data.jl is responsible for genrate all data need to create Figure 3(a)-(d) and Figure3a-d.jl is reponsible to create create Figure 3(a)-(d) using the data.
 # Additive_Gaussian from Case1
+ additve_Gaussian.jl is use to generate the result for additive Gaussian measurement error model for Case 1
 # Multinomial from Case1
+ Multinomial.jl is use to generate the result for multinomial measurement error model for Case 1
 # Case2
  This file contian three sub-files: Data, Additive_Gaussian and Multinomial
 # Data from Case2
+ Data.jl is responsible for genrate all data need to create Figure 3(e)-(j) and Figure3e-j.jl is reponsible to create create Figure 3(e)-(j) using the data.
 # Additive_Gaussian from Case2
+ additve_Gaussian.jl is use to generate the result for additive Gaussian measurement error model for Case 2
 # Multinomial from Case2
+ Multinomial.jl is use to generate the result for multinomial measurement error model for Case 2
