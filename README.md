@@ -1,5 +1,5 @@
 # Likelihood-based-inference
- This repository contains several Julia codes that are associated with "Likelihood-based inference, identifiability and prediction using count data from lattice-based random walk models" by Yihan Liu, David J. Warne and Matthew J Simpson.
+ This repository contains several Julia codes that are associated with "Likelihood-based inference, identifiability and prediction using count data from lattice-based random walk models" by Yihan Liu, David J. Warne and Matthew J Simpson. The preprint is availiable at https://arxiv.org/abs/2406.16296 
 
 # Experiment
  This file contain two sub-files: Single_population and Two_subpopulation.
